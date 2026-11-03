@@ -18,6 +18,17 @@ print("laptop")
 
 
 print("suraj sharma")
+print("seekho computer saket delhi")
+print("hp india for feedback ")
+print("includes office home and student")
+print("microsoft excel")
+
+
+
+
+
+
+
 
 
 
